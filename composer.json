@@ -1,0 +1,21 @@
+{
+    "name": "nholuongut/aoe-template-hints",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description": "Advanced Template Hints for Magento",
+    "homepage": "https://github.com/nholuongut/aoe-template-hints",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "replace": {
+        "fbrnc/aoe_templatehints": "*",
+        "aoemedia/aoe_templatehints": "*"
+    },
+    "authors":[
+        {
+            "name":"Nho Luong",
+            "email":"{firtname}.{lastname}@hotmail.com"
+        }
+    ]
+}
+
